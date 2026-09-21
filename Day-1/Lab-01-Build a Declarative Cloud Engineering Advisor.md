@@ -1327,10 +1327,3 @@ Participants should leave the lab understanding that:
 That mental model becomes increasingly important when later adding **knowledge sources, connectors, agent flows, MCP tools, APIs and more sophisticated agentic capabilities**.
 
 ---
-
-# 38. Reference
-
-This lab is adapted from the structure and learning objectives of Microsoft's **Agent Academy – Mission 03: Deploy a Declarative Agent for Microsoft 365 Copilot**, while using a cloud-engineering scenario and original training content rather than reproducing the Microsoft scenario. The Microsoft mission covers declarative-agent creation, prompt-as-tool integration, testing, publishing and runtime debugging.
-
-**Microsoft reference:**
-[Agent Academy – Mission 03: Deploy a Declarative Agent for Microsoft 365 Copilot](https://microsoft.github.io/agent-academy/recruit/03-create-a-declarative-agent-for-M365Copilot/?utm_source=chatgpt.com)
